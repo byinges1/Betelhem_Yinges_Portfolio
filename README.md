@@ -7,7 +7,7 @@
 - Participant, 2023 Digital Scholars Cohort
 - GPA: 3.6
 ### Work History
-#Data for Public Good Analyst
+# Data for Public Good Analyst
 - Latino Educational Training Institute (LETI), Lynnwood, USA | June 2024 - August 2024
 - Analyzed datasets on Latino demographics, healthcare resources, and Latino-owned businesses, identifying service gaps that impacted over 50,000 residents in Snohomish County.
 - Conducted exploratory data analysis using Python libraries (pandas, NumPy), developing regression models that forecasted a 20% increase in healthcare demand in underserved areas over five years.
